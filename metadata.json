@@ -1,0 +1,6 @@
+{
+  "name": "Orbital Nexus 3D",
+  "description": "An interactive, high-fidelity 3D planetary exploration platform featuring real-time WebGL rendering, cinematic tours, and celestial core cross-sections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
